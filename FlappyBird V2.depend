@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1531499022 source:d:\igraphics\flappybird v2\imain.cpp
+	<dir.h>
+	<cstdio>
+	<fstream>
+	<stdlib.h>
+	"iGraphics.h"
+
+1530384354 d:\igraphics\flappybird v2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"TextureList.h"
+
+1530384354 d:\igraphics\flappybird v2\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530384352 d:\igraphics\flappybird v2\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1531389653 d:\igraphics\flappybird v2\texturelist.h
+	"texture.h"
+
+1530384362 d:\igraphics\flappybird v2\texture.h
+
+1532200945 source:d:\programming\igraphics\flappybird v2\imain.cpp
+	<dir.h>
+	<cstdio>
+	<fstream>
+	<stdlib.h>
+	"iGraphics.h"
+
+1530384354 d:\programming\igraphics\flappybird v2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"TextureList.h"
+
+1530384354 d:\programming\igraphics\flappybird v2\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530384352 d:\programming\igraphics\flappybird v2\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1532197306 d:\programming\igraphics\flappybird v2\texturelist.h
+	"texture.h"
+
+1530384362 d:\programming\igraphics\flappybird v2\texture.h
+
+1533056022 source:d:\programming\igraphics\flappybird\imain.cpp
+	<dir.h>
+	<cstdio>
+	<fstream>
+	<windows.h>
+	<mmsystem.h>
+	<stdlib.h>
+	"iGraphics.h"
+
+1530384354 d:\programming\igraphics\flappybird\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"TextureList.h"
+
+1530384354 d:\programming\igraphics\flappybird\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530384352 d:\programming\igraphics\flappybird\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1532197306 d:\programming\igraphics\flappybird\texturelist.h
+	"texture.h"
+
+1530384362 d:\programming\igraphics\flappybird\texture.h
+
+1533625136 source:c:\users\dolphin\desktop\flappybird\imain.cpp
+	<dir.h>
+	<cstdio>
+	<fstream>
+	<windows.h>
+	<mmsystem.h>
+	<stdlib.h>
+	"iGraphics.h"
+
+1530434754 c:\users\dolphin\desktop\flappybird\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"TextureList.h"
+
+1530434754 c:\users\dolphin\desktop\flappybird\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530434752 c:\users\dolphin\desktop\flappybird\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1532247708 c:\users\dolphin\desktop\flappybird\texturelist.h
+	"texture.h"
+
+1530434762 c:\users\dolphin\desktop\flappybird\texture.h
+
