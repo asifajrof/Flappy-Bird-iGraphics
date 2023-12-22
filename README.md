@@ -4,8 +4,9 @@ A simple implementation of the popular game Flappy Bird using iGraphics.
 
 ## Team Members
 
-- [Sharjil Hasan Mahir](https://www.github.com/SuperSharjil)
-- [Asif Ajrof](https://www.github.com/asifajrof)
+- [Sharjil Hasan Mahir](https://github.com/SuperSharjil)
+- [Asif Ajrof](https://github.com/asifajrof)
+- [Muhtasim Noor Alif](https://github.com/Alif108)
 
 ## Features
 
